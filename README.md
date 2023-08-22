@@ -1,0 +1,2 @@
+# articles
+smart contract article
