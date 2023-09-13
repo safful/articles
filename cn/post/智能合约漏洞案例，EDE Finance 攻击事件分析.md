@@ -1,6 +1,6 @@
 # 智能合约漏洞案例，EDE Finance 攻击事件分析
 
-# 件背景
+# 事件背景
 
 [Safful](https://safful.com/)区块链安全情报平台监控到消息，北京时间 2023 年 5 月 30 日，Arbitrum 链上 EDE Finance 项目受到黑客攻击，攻击者获利 597,694 USDC 及 86,222 USDT，攻击者地址为 0x80826e9801420e19a948b8ef477fd20f754932dc。**攻击者完成攻击后，在链上留言声称为“白帽行为”，目前攻击者已返还 EDE FinanceEDE Finance 项目 333,948 USDC 及 86,222 USDT，留下部分 USDC 未转移。**[Safful](https://safful.com/)安全团队及时对此安全事件进行分析。
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/97322/1694317812835-b1a9e285-ffcd-4e1e-8d3d-aaf50c8066be.png#averageHue=%23fefefd&clientId=u033c60fa-98a0-4&from=paste&height=214&id=u4a0f5bc3&originHeight=519&originWidth=1080&originalType=binary&ratio=2&rotation=0&showTitle=false&size=95761&status=done&style=none&taskId=u110bbcc1-351e-4c9f-9bdc-1464c16f5c9&title=&width=445)
